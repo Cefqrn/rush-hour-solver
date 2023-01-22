@@ -25,4 +25,4 @@ if __name__ == "__main__":
     )
 
     solution = lot.solve()
-    lot.print_solution(solution, False)
+    lot.print_solution(solution)
